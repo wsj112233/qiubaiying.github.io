@@ -12,7 +12,7 @@ github_repo: "https://github.com/wsj112233/wsj112233.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "人这一生有如负重而致远，切不可焦躁，要以不自由为常事则不觉不足"
-sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/MTXX_20170428173750.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
